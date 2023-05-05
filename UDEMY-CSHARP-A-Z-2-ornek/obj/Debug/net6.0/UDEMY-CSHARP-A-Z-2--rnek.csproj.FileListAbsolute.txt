@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.deps.json
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.pdb
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/refint/UDEMY-CSHARP-A-Z-2--rnek.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.pdb
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-2--rnek.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-2/UDEMY-CSHARP-A-Z-2--rnek/obj/Debug/net6.0/ref/UDEMY-CSHARP-A-Z-2--rnek.dll

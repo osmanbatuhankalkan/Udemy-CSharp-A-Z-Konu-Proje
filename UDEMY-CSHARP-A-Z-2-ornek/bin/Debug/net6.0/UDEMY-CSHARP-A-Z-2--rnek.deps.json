@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UDEMY-CSHARP-A-Z-2--rnek/1.0.0": {
+        "runtime": {
+          "UDEMY-CSHARP-A-Z-2--rnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UDEMY-CSHARP-A-Z-2--rnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
