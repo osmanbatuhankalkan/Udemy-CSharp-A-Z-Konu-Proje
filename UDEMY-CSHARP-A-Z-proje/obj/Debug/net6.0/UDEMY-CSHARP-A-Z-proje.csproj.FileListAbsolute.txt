@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-proje
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.deps.json
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/bin/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.pdb
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/refint/UDEMY-CSHARP-A-Z-proje.dll
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.pdb
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/UDEMY-CSHARP-A-Z-proje.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/UDEMY-CSHARP-A-Z/UDEMY-CSHARP-A-Z-Proje/UDEMY-CSHARP-A-Z-proje/obj/Debug/net6.0/ref/UDEMY-CSHARP-A-Z-proje.dll
